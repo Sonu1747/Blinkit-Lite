@@ -47,8 +47,10 @@ cd backend
 npm run seed
 ```
 
+This will populate the store with a variety of drinks and categories so you can test the full shopping experience.
+
+
+
 👨‍💻 Author
 
 Sonu Pal
-
-This will populate the store with a variety of drinks and categories so you can test the full shopping experience.
